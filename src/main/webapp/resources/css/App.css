@@ -1,0 +1,25 @@
+
+.div-1 {
+	height: 75px;
+	margin: 5px;
+	border: 1px solid;
+	background-color: #DC143C;
+}
+
+.error {
+	color: red;
+	position: fixed;
+	text-align: left;
+	margin-left: 30px;
+}
+.div-2 {
+    height: 250px;
+	width: 300px;
+	margin-bottom: 500px;
+	margin: 80px;
+	border: 1px solid;
+	position: fixed;
+	text-align: left;
+	background-color: #ABBAEA;
+}
+
